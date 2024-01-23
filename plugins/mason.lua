@@ -25,6 +25,7 @@ return {
         "stylua",
         "clang_format",
         "cmakelang",
+        "latexindent",
       })
     end,
   },
